@@ -1,1 +1,1 @@
-# here are some algorithms that are useful for busienss analysis and providing insights.
+# here are some algorithms that are useful for business analysis and providing insights.
